@@ -7,4 +7,9 @@ a{color:rgb(133, 135, 250)}
 body {
     background-image:  url(img.tecnológico.jpg);
     background-size: cover;
+#particles-js {
+    height: 100vh;
+    wiht: 100%;
+    position: fixed;
+    z-index: -1;
 }
