@@ -28,7 +28,7 @@ main {
     color: #fff;                 
     padding: 40px 60px;          
     backdrop-filter: blur(4px);   
-    -webkit-backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(4px);
 }
   
 
