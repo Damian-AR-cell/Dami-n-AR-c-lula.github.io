@@ -27,8 +27,8 @@ main {
     background: rgba(0, 0, 0, 0.6);
     color: #fff;                 
     padding: 40px 60px;          
-    backdrop-filter: blur(4px);   
-    -webkit-backdrop-filter: blur(4px);
+    backdrop-filter: blur(1.5px);   
+    -webkit-backdrop-filter: blur(1.5px);
 }
   
 
