@@ -21,6 +21,6 @@ position: fixed;
      }
 main {
     width: 40%;
-    background: rgba(0,0,0,0,5)
+    background: rgba(0,0,0,0.5)
     color: #fff;
 }
