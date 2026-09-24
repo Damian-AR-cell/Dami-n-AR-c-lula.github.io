@@ -9,8 +9,8 @@ a{color:rgb(133, 135, 250)}
 body { 
     margin: 0;
 }
- <video src="183107-870151708_medium.mp4" autoplay muted loop></video> { position: fixed;
-                                                                         min-width: 100%;
-                                                                        min-height: 100%,
-                                                                            } 
+ video { position: fixed;
+                     min-width: 100%;
+                     min-height: 100%,
+                                      } 
 
