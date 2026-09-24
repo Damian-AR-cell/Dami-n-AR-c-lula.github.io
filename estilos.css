@@ -24,7 +24,7 @@ main {
     width: 100%;               
     min-height: 100vh;            
     box-sizing: border-box;       
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.4);
     color: #fff;                 
     padding: 40px 60px;          
     backdrop-filter: blur(1.5px);   
