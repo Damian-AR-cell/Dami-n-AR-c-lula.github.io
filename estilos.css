@@ -19,7 +19,6 @@ position: fixed;
         z-index: -1;
         object-fit: cover;                       
      }
-main {
     main {
     width: 100%;                
     min-height: 100vh;        
